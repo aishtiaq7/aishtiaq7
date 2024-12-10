@@ -62,3 +62,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=awshafishtiaque&theme=nord&column=7)](https://github.com/awshafishtiaque/github-profile-trophy)
 
 ⭐️ From [Awshaf Ishtiaque](https://github.com/awshafishtiaque)
+
+
+
+Inspiration: 
+https://github.com/Kumawatlalit912/Kumawatlalit912/tree/main
