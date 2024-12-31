@@ -1,22 +1,29 @@
 ### Hi there 👋
 
-Welcome to my github page. 
+Welcome to my GitHub page!  
 
-> My name is Awshaf - the 'h' is silent. 
+> **I'm Awshaf** – pronounced *"Aw-saf"* (the 'h' is silent).  
 
-In the coming days, I will update this space. Stay tuned...
+---
 
-<!--
-**aishtiaq7/aishtiaq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Quick Facts About Me**:  
+- 🔨 I build with **React**, **Node.js**, **Python**, and **SQL**  
+- 🌐 I enjoy crafting **end-to-end solutions** for modern web applications  
+- ☁️ Always learning about **trendy technologies** and **AI**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about building scalable applications, mentoring aspiring developers and solving real-world problems through code.  
+
+###  🔥 Hotlinks  
+- 💻 [Portfolio](https://awshaf.com)  
+- 👤 [LinkedIn](https://linkedin.com/in/awshaf)  
+- 📚 [CICCC](https://ciccc.ca/wps-members/awshaf-ishtiaque/)  
+- 👨🏽‍💻 [Digitec](https://www.digitecinnovation.ca/)  
+
+---
+
+<div style="text-align: center;">
+    <img src="https://i.gifer.com/5ufw.gif" style="max-width: 100%; height: auto;" alt="Coding GIF">
+</div>
+
+✨ *Let’s connect & collaborate!* 🚀
